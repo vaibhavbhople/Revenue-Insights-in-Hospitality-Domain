@@ -45,5 +45,7 @@ Special thanks to:
 
 Their guidance and input on key metrics were invaluable in completing this project.
 
+#### Dashboard Link : https://encr.pw/rtcQy
+
 Feel free to explore the detailed dashboards and insights. Your feedback and thoughts are always welcome!
 
