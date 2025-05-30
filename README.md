@@ -46,6 +46,8 @@ Special thanks to:
 Their guidance and input on key metrics were invaluable in completing this project.
 
 #### Dashboard Link : https://encr.pw/rtcQy
+#### 𝗩𝗶𝗱𝗲𝗼 𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 - https://lnkd.in/gyGxswHb
+#### LinkeDin post - https://www.linkedin.com/posts/vaibhav-bhople-5115a5321_a%F0%9D%91%BB%F0%9D%91%B3%F0%9D%91%B0%F0%9D%91%B8-%F0%9D%91%AE%F0%9D%91%B9%F0%9D%91%A8%F0%9D%91%B5%F0%9D%91%AB%F0%9D%91%BA-%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%BA%F0%9D%91%B7%F0%9D%91%B0%F0%9D%91%BB%F0%9D%91%A8%F0%9D%91%B3%F0%9D%91%B0-activity-7334243966587965441-QvBQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFsWp0BDLe5PRK7DJqRosEDIohuQgNVjGw
 
 Feel free to explore the detailed dashboards and insights. Your feedback and thoughts are always welcome!
 
